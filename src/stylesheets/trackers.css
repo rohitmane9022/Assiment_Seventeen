@@ -1,0 +1,29 @@
+.goalsbtn {
+ width: 256px;
+ height: 64px;
+ padding: 16px;
+ margin: 16px;
+ text-align: center;
+ color: white;
+ background-color: orangered;
+}
+
+.excercisebtn {
+    width: 256px;
+    height: 64px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    color: white;
+    background-color: green;
+   }
+
+   .foodsbtn {
+    width: 256px;
+    height: 64px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+   }

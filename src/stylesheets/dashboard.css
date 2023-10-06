@@ -1,0 +1,70 @@
+.totalcaloriesbtn {
+    width: 256px;
+    height: 128px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    color: red;
+    font: bold;
+    font-size: 20px;
+    background-color:bisque;
+   }
+   
+   .consumedcaloriesbtn {
+       width: 256px;
+       height: 128px;
+       padding: 16px;
+       margin: 16px;
+       text-align: center;
+       color: red;
+       font: bold;
+       font-size: 20px;
+       background-color:burlywood;
+      }
+   
+      .totalcaloriesburnedbtn {
+       width: 256px;
+       height: 128px;
+       padding: 16px;
+       margin: 16px;
+       text-align: center;
+       color: red;
+       font: bold;
+       font-size: 20px;
+       background-color:salmon;
+      }
+      .remainingcaloriesburnedbtn {
+        width: 256px;
+        height: 128px;
+        padding: 16px;
+        margin: 16px;
+        text-align: center;
+        color: red;
+        font: bold;
+        font-size: 20px;
+        background-color:aliceblue;
+       }
+
+       .actionbtn {
+        width: 256px;
+        height: 128px;
+        padding: 16px;
+        margin: 16px;
+        text-align: center;
+        color: white;
+        font: bold;
+        font-size: 20px;
+        background-color: crimson;
+       }
+
+       header {
+        position: relative;
+      }
+       .parent{
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        bottom: 64;
+       }
+
+     
