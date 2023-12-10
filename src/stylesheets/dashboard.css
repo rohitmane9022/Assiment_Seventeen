@@ -4,7 +4,7 @@
     padding: 16px;
     margin: 16px;
     text-align: center;
-    color: red;
+    color: black;
     font: bold;
     font-size: 20px;
     background-color:bisque;
@@ -16,7 +16,7 @@
        padding: 16px;
        margin: 16px;
        text-align: center;
-       color: red;
+       color: black;
        font: bold;
        font-size: 20px;
        background-color:burlywood;
@@ -28,7 +28,7 @@
        padding: 16px;
        margin: 16px;
        text-align: center;
-       color: red;
+       color: black;
        font: bold;
        font-size: 20px;
        background-color:salmon;
@@ -39,7 +39,7 @@
         padding: 16px;
         margin: 16px;
         text-align: center;
-        color: red;
+        color: black;
         font: bold;
         font-size: 20px;
         background-color:aliceblue;
@@ -51,7 +51,7 @@
         padding: 16px;
         margin: 16px;
         text-align: center;
-        color: white;
+        color: black;
         font: bold;
         font-size: 20px;
         background-color: crimson;
@@ -59,12 +59,14 @@
 
        header {
         position: relative;
+        color: black;
+        font-size: 24px;
+        margin-bottom: 20px;
       }
        .parent{
-        display: flex;
+        display:flex;
         flex-direction: row;
-        position: absolute;
-        bottom: 64;
+        gap: 2;
        }
 
      
